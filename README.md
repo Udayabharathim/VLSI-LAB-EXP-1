@@ -35,6 +35,7 @@ not g6(c5,a);<br>
 xnor g7 (c6,a,b);<br>
 endmodule
 
+
 ## OUTPUT: 
 ![image](https://github.com/Udayabharathim/VLSI_EXPERIMENT_1/assets/160568654/a9e24045-b0e5-407e-8ce0-35bec1d18610)
 
