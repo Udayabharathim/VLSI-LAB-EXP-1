@@ -15,9 +15,7 @@ STEP:6 Click the simulation to simulate the program and give the inputs and veri
 ## LOGIC-GATES:
 
 
-![image](https://github.com/Udayabharathim/VLSI_EXPERIMENT_1/assets/160568654/35accf89-84fa-43f1-be08-02b5c54aa742)
-
-
+![image](https://github.com/Udayabharathim/VLSI-LAB-EXP-1/assets/160568654/9415fe63-c582-4062-be29-990de4bea680)
 
 
 
@@ -37,15 +35,16 @@ endmodule
 
 
 ## OUTPUT: 
-![image](https://github.com/Udayabharathim/VLSI_EXPERIMENT_1/assets/160568654/a9e24045-b0e5-407e-8ce0-35bec1d18610)
+
+![image](https://github.com/Udayabharathim/VLSI-LAB-EXP-1/assets/160568654/1a5cdc3f-2b04-43b2-8481-8c927f9a5f20)
 
 
 ## HALF ADDER:
 
-![image](https://github.com/Udayabharathim/VLSI_EXPERIMENT_1/assets/160568654/fdadb42f-eafb-4bf1-aaf9-07d0890185b7)
 
 
 
+![image](https://github.com/Udayabharathim/VLSI-LAB-EXP-1/assets/160568654/1f3053f8-10e1-4866-a8c4-98fc93b61ccc)
 
 
 
@@ -59,12 +58,13 @@ xor g1(s,a,b); O and g2 (c,a,b);<br>
 endmodule
 
 ## OUTPUT:
-![image](https://github.com/Udayabharathim/VLSI_EXPERIMENT_1/assets/160568654/7188e62f-ae24-434c-8e21-2eb3f0c5e071)
+![image](https://github.com/Udayabharathim/VLSI-LAB-EXP-1/assets/160568654/8f3d9340-9242-44db-b036-de747dcf0ec6)
 
 
 ## HALFSUBTRACTOR:
 
-![image](https://github.com/Udayabharathim/VLSI_EXPERIMENT_1/assets/160568654/78384b3d-68c0-48ae-9012-a2293c8089f7)
+![image](https://github.com/Udayabharathim/VLSI-LAB-EXP-1/assets/160568654/ff1f3f75-49a8-465d-b89e-d6c0e2e3bdc6)
+
 
 ## PROGRAM:
 module hs (a, b, diff, borr);<br>
@@ -76,8 +76,9 @@ endmodule
 
 ## OUTPUT:
 
-![image](https://github.com/Udayabharathim/VLSI_EXPERIMENT_1/assets/160568654/53f0c43e-8fa0-4d9f-9f33-542e0da05ee5)
 
+
+![image](https://github.com/Udayabharathim/VLSI-LAB-EXP-1/assets/160568654/8c632ef1-17e9-4b00-9fc7-4d35d5d6b8fc)
 
 
 
@@ -89,7 +90,7 @@ endmodule
 
 
 
-![image](https://github.com/Udayabharathim/VLSI_EXPERIMENT_1/assets/160568654/73f092e1-afe7-41d1-a45d-c5ec0f738cf6)
+![image](https://github.com/Udayabharathim/VLSI-LAB-EXP-1/assets/160568654/47107752-6e50-4d0b-bb50-6c5db396bf50)
 
 
 
@@ -108,20 +109,13 @@ endmodule
 
 ## OUTPUT:
 
-
-![image](https://github.com/Udayabharathim/VLSI_EXPERIMENT_1/assets/160568654/67c16592-c919-4d58-aa23-a17e6a06adf7)
-
-
-
-
-
-
+![image](https://github.com/Udayabharathim/VLSI-LAB-EXP-1/assets/160568654/1e5c590e-9b5c-453d-b060-282bf1cda2b6)
 
 
 ## FULLSUBTRACTOR:
 
-![image](https://github.com/Udayabharathim/VLSI_EXPERIMENT_1/assets/160568654/d507cbc5-cd95-4ff2-8ea5-7518655bef14)
 
+![image](https://github.com/Udayabharathim/VLSI-LAB-EXP-1/assets/160568654/0665aac7-5288-438f-be3a-8b367707c546)
 
 
 
@@ -140,13 +134,15 @@ endmodule
 
 ## OUTPUT:
 
-![image](https://github.com/Udayabharathim/VLSI_EXPERIMENT_1/assets/160568654/237138cf-faee-4ae4-8ccb-27016fc33996)
+![image](https://github.com/Udayabharathim/VLSI-LAB-EXP-1/assets/160568654/221e2375-fd36-434a-9e3d-d1ff8354bf41)
+
 
 
 
 
 ## 8-BIT-RIPPLE-CARRY-ADDER:
-![image](https://github.com/Udayabharathim/VLSI_EXPERIMENT_1/assets/160568654/9a695cb7-f4ed-4d44-85f6-a5aac1bec7d4)
+
+![image](https://github.com/Udayabharathim/VLSI-LAB-EXP-1/assets/160568654/555344cc-4a94-4af9-aaa8-a75b3e4378a5)
 
 
 ## PROGRAM:
@@ -175,7 +171,10 @@ endmodule
 
 
 ## OUTPUT:
-![image](https://github.com/Udayabharathim/VLSI_EXPERIMENT_1/assets/160568654/6042457a-872d-4d59-a1d1-d1092e80b02a)
+
+![image](https://github.com/Udayabharathim/VLSI-LAB-EXP-1/assets/160568654/52750733-70f7-4f3b-adf7-924313bae717)
+
+
 ## RESULT:
 	The simulate and synthesis Logic Gates, Adders and Subtractor using VIVADO is successfully verified.
 
