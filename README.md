@@ -1,4 +1,4 @@
-# VLSI
+# SIMULATE AND SYNTHESIS LOGIC GATES, ADDERS AND SUBTRACTOR USING VIVADO
 ## AIM: 
 To simulate and synthesis Logic Gates, Adders and Subtractor using VIVADO
 
